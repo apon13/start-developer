@@ -1,0 +1,72 @@
+span {
+    color: orange;
+}
+
+
+
+.jannat {
+    margin: 10px;
+    width: 500px;
+    padding: 5%;
+}
+
+.nice {
+    display: flex;
+}
+
+body {
+    font: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+
+}
+
+.fatema {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    size: 10px;
+    margin-left: 20px;
+}
+
+.new {
+
+
+    margin-left: 5%;
+
+}
+
+.hire {
+    margin: 20%;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    width: 50px;
+    color: aliceblue;
+
+}
+
+.save {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.have {
+    margin: 10px;
+    padding-left: 10px;
+}
+
+.nothing {
+    box-shadow: 5px 10px 20Px rgb(0, 255, 42);
+
+    border position: left;
+    padding: 10%;
+    border-radius: 10px;
+    border-left: 7px solid;
+    border-image: linear-gradient(purple, tomato);
+    border-image-slice: 1;
+
+
+}
+
+footer p {
+    text-align: center;
+}
